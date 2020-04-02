@@ -1,0 +1,2 @@
+*.workflow linguist-vendored=true
+*.workflow linguist-language=Automator

@@ -1,0 +1,6 @@
+# all hidden files
+.*
+
+#exclude
+!.gitignore
+!.gitattributes
