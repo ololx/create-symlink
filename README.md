@@ -2,31 +2,33 @@
 
 Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS.
 
-[![status](https://img.shields.io/badge/status-completed-inactive?style=flat-square)](BADGES_GUIDE.md#status) [![version](https://img.shields.io/badge/version-1.0.0-informational?style=flat-square)](BADGES_GUIDE.md@version) [![build](https://img.shields.io/badge/build-passing-success?style=flat-square)](https://github.com/ololx/create-symlink) [![oss lifecycle](https://img.shields.io/badge/oss_lifecycle-maintenance-important?style=flat-square)](BADGES_GUIDE.md#oss-lifecycle) [![maintenance](https://img.shields.io/badge/maintenance-yes-informational?style=flat-square)](BADGES_GUIDE.md#maintenance)  [![latest release date](https://img.shields.io/badge/latest_release_date-April_01,_2020-informational?style=flat-square)](BADGES_GUIDE.md#release-date) [![last commit](https://img.shields.io/badge/last_commit-April_01,_2020-informational?style=flat-square)](BADGES_GUIDE.md#commit-date)
+[![status](https://img.shields.io/badge/status-completed-inactive?style=flat-square)](BADGES_GUIDE.md#status) [![version](https://img.shields.io/badge/version-1.0.0-informational?style=flat-square)](BADGES_GUIDE.md@version) [![build](https://img.shields.io/badge/build-passing-success?style=flat-square)](https://github.com/ololx/create-symlink) [![oss lifecycle](https://img.shields.io/badge/oss_lifecycle-maintenance-important?style=flat-square)](BADGES_GUIDE.md#oss-lifecycle) [![maintenance](https://img.shields.io/badge/maintenance-yes-informational?style=flat-square)](BADGES_GUIDE.md#maintenance)  [![latest release date](https://img.shields.io/badge/latest_release_date-April_01,_2020-informational?style=flat-square)](BADGES_GUIDE.md#release-date) [![last commit](https://img.shields.io/badge/last_commit-May_14,_2021-informational?style=flat-square)](BADGES_GUIDE.md#commit-date)
 
 [![license](https://img.shields.io/badge/license-MIT-informational?style=flat-square)](LICENSE) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 
-[![platform](https://img.shields.io/badge/platform-macOS_10.12+-important?style=flat-square)](https://en.wikipedia.org/wiki/Computing_platform)
+[![platform](https://img.shields.io/badge/platform-macOS_10.11+-important?style=flat-square)](https://en.wikipedia.org/wiki/Computing_platform)
 
 ---
 
 ## 📇 Table of Contents
 
 - [About](#about)
--   [Demo](#demo)
--   [Features](#feature)
+- [Demo](#demo)
+- [Features](#feature)
 - [Getting Started](#getting-started)
 - [Built With](#built-with)
--   [Contributing](#contributing)
--   [Code of Conduct](#code-of-conduct)
--   [Versioning](#versioning)
--   [Authors](#authors)
--   [Licensing](#licensing)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [Versioning](#versioning)
+- [Authors](#authors)
+- [Licensing](#licensing)
 
 ##  📖 About
 
 For me the symbolic links is a useful feature of macOS. They can be especially useful when it's needed to store the `Documents` folder on a hard drive or SD card, but on the ssd to create a just link to this folder.
 Create Symlink is a mac Automator workflow which allows to create symbolic links of selected folders or files. It can be added to the "Services” menu and called by right-clicking on selected folders or files and selecting `Services --> create symlink` from the context menu.
+
+**There is an alternative project with similar functionality, but a different implementation - a `Finder extension`.; for more details see https://github.com/ololx/quick-symlink.**
 
 ## 📸 Demo
 
