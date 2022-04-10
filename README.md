@@ -1,32 +1,44 @@
-# create symlink
+<div align="right">
+  <a href="https://github.com/ololx/create-symlink/discussions" target="_blank">
+		<img src="https://img.shields.io/github/discussions/ololx/create-symlink?label=welcome%20to%20discussions&logo=github&style=social" alt="discutions"/>
+	</a>
+</div>
 
-Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS.
+# Create Symlink
 
-[![status](https://img.shields.io/badge/status-completed-inactive?style=flat-square)](BADGES_GUIDE.md#status) [![version](https://img.shields.io/badge/version-1.0.0-informational?style=flat-square)](BADGES_GUIDE.md@version) [![build](https://img.shields.io/badge/build-passing-success?style=flat-square)](https://github.com/ololx/create-symlink) [![oss lifecycle](https://img.shields.io/badge/oss_lifecycle-maintenance-important?style=flat-square)](BADGES_GUIDE.md#oss-lifecycle) [![maintenance](https://img.shields.io/badge/maintenance-yes-informational?style=flat-square)](BADGES_GUIDE.md#maintenance)  [![latest release date](https://img.shields.io/badge/latest_release_date-April_01,_2020-informational?style=flat-square)](BADGES_GUIDE.md#release-date) [![last commit](https://img.shields.io/badge/last_commit-April_01,_2020-informational?style=flat-square)](BADGES_GUIDE.md#commit-date)
+The Create Symlink is a simple mac Automator workflow which provides a GUI for the symbolic links creation on macOS.
 
-[![license](https://img.shields.io/badge/license-MIT-informational?style=flat-square)](LICENSE) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+[![tag](https://img.shields.io/github/v/tag/ololx/create-symlink?style=flat&include_prereleases&logo=github)](https://github.com/ololx/create-symlink/tags) [![release](https://img.shields.io/github/v/release/ololx/create-symlink?style=flat&include_prereleases&logo=github)](https://github.com/ololx/create-symlink/releases)
 
-[![platform](https://img.shields.io/badge/platform-macOS_10.12+-important?style=flat-square)](https://en.wikipedia.org/wiki/Computing_platform)
+[![osslifecycle](https://img.shields.io/osslifecycle/ololx/create-symlink?style=flat)](OSSMETADATA) [![last_commit](https://img.shields.io/github/last-commit/ololx/create-symlink?style=flat&logo=github)](https://github.com/ololx/create-symlink/commits) [![release_date](https://img.shields.io/github/release-date/ololx/create-symlink?style=flat&logo=github)](https://github.com/ololx/create-symlink/releases)
+
+[![licence](https://img.shields.io/github/license/ololx/create-symlink?style=flat)](LICENCE) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=flat)](CODE_OF_CONDUCT.md)
+
+![repo_size](https://img.shields.io/github/repo-size/ololx/create-symlink?style=flat&logo=github)
+
+![platform](https://img.shields.io/badge/platform-OS_X_10.10+-important?style=flat)
 
 ---
 
 ## 📇 Table of Contents
 
 - [About](#about)
--   [Demo](#demo)
--   [Features](#feature)
+- [Demo](#demo)
+- [Features](#feature)
 - [Getting Started](#getting-started)
 - [Built With](#built-with)
--   [Contributing](#contributing)
--   [Code of Conduct](#code-of-conduct)
--   [Versioning](#versioning)
--   [Authors](#authors)
--   [Licensing](#licensing)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [Versioning](#versioning)
+- [Authors](#authors)
+- [Licensing](#licensing)
 
 ##  📖 About
 
 For me the symbolic links is a useful feature of macOS. They can be especially useful when it's needed to store the `Documents` folder on a hard drive or SD card, but on the ssd to create a just link to this folder.
 Create Symlink is a mac Automator workflow which allows to create symbolic links of selected folders or files. It can be added to the "Services” menu and called by right-clicking on selected folders or files and selecting `Services --> create symlink` from the context menu.
+
+**There is an alternative project with similar functionality, but a different implementation - a `Finder extension`.; for more details see https://github.com/ololx/quick-symlink.**
 
 ## 📸 Demo
 
