@@ -1,5 +1,8 @@
 <div align="right">
-  <a href="https://github.com/ololx/create-symlink/discussions" target="_blank">
+	<a href="https://github.com/ololx/create-symlink/stargazers" target="_blank">
+		<img src="https://img.shields.io/github/stars/ololx/create-symlink?style=social" alt="Stars earned"/>
+	</a>
+	<a href="https://github.com/ololx/create-symlink/discussions" target="_blank">
 		<img src="https://img.shields.io/github/discussions/ololx/create-symlink?label=welcome%20to%20discussions&logo=github&style=social" alt="discutions"/>
 	</a>
 </div>
